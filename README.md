@@ -15,6 +15,33 @@ I'm **Khalid Essam**, a Junior **Backend / MERN Stack Web Developer** passionate
 
 ## 🌟 Featured Projects
 
+
+### 💬 Real-Time Chat Application
+
+> 💻 Full-stack real-time chat app with authentication and room management. (still under dev ⏳⏳⏳)
+
+**📝 Overview:**
+
+Built with **NestJS**, **PostgreSQL**, and **Socket.io**, this app allows real-time messaging and secure JWT authentication.
+
+**🔑 Key Features:**
+
+- 🗨️ Real-time chat (Socket.io)
+- 🔐 JWT Authentication & Route Guards  
+- 📱 User identification (name/phone)
+- ♻️ Token persistence
+- 🧼 Robust error handling  
+- 🎨 Responsive Material UI (React + Next.js)
+
+**🧰 Tech Stack:**  
+`NestJS`, `PostgreSQL`, `Socket.io`, `Next.js`, `MUI`, `JWT`, `ODM`, `Docker`, `PassportModule`, `AuthGuard`
+
+**🔗 Repository:**  
+[![Chat App](https://img.shields.io/badge/GitHub-RealTime%20Chat%20App-green?logo=github)](https://github.com/KhalidEssam/Chating-app)
+
+---
+
+
 ### 🛠️ Target Backend
 
 > 🏗 Express.js backend for a construction and maintenance company.
@@ -36,30 +63,10 @@ Built with the **MVC architecture**, this project provides a scalable backend us
 **🔗 Repository:**  
 [![Target Backend](https://img.shields.io/badge/GitHub-Target%20Backend-blue?logo=github)](https://github.com/KhalidEssam/target-backend)
 
----
+[![hosted testable backend](https://img.shields.io/badge/GitHub-Target%20Backend-blue?logo=github)](https://target-backend-production.up.railway.app)
 
-### 💬 Real-Time Chat Application
 
-> 💻 Full-stack real-time chat app with authentication and room management.
-
-**📝 Overview:**
-
-Built with **NestJS**, **PostgreSQL**, and **Socket.io**, this app allows real-time messaging and secure JWT authentication.
-
-**🔑 Key Features:**
-
-- 🗨️ Real-time chat (Socket.io)
-- 🔐 JWT Authentication & Route Guards  
-- 📱 User identification (name/phone)
-- ♻️ Token persistence
-- 🧼 Robust error handling  
-- 🎨 Responsive Material UI (React + Next.js)
-
-**🧰 Tech Stack:**  
-`NestJS`, `PostgreSQL`, `Socket.io`, `Next.js`, `MUI`, `JWT`, `ODM`, `Docker`, `PassportModule`, `AuthGuard`
-
-**🔗 Repository:**  
-[![Chat App](https://img.shields.io/badge/GitHub-RealTime%20Chat%20App-green?logo=github)](https://github.com/KhalidEssam/Chating-app)
+[![Website](https://img.shields.io/badge/GitHub-Target%20Backend-blue?logo=github)](https://target-website-alpha.vercel.app/)
 
 ---
 
@@ -122,9 +129,8 @@ Designed for a Scandiweb technical assessment, the backend allows managing produ
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/khalidessam/)
-- 🧠 [Portfolio (coming soon)](https://your-portfolio-link.com)
-- 📧 khalid.essam@example.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/khaled-mossalam/)
+- 📧 khaledesam384@gmail.com
 
 ---
 

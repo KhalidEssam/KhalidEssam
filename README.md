@@ -121,7 +121,6 @@ Designed for a Scandiweb technical assessment, the backend allows managing produ
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KhalidEssam&show_icons=true&theme=radical" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhalidEssam&layout=compact&theme=radical" height="180"/>
 </p>
 

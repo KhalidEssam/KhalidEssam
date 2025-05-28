@@ -63,10 +63,10 @@ Built with the **MVC architecture**, this project provides a scalable backend us
 **🔗 Repository:**  
 [![Target Backend](https://img.shields.io/badge/GitHub-Target%20Backend-blue?logo=github)](https://github.com/KhalidEssam/target-backend)
 
-[![hosted testable backend](https://img.shields.io/badge/GitHub-Target%20Backend-blue?logo=github)](https://target-backend-production.up.railway.app)
+[![hosted testable backend](https://target-backend-production.up.railway.app)]
 
 
-[![Website](https://img.shields.io/badge/GitHub-Target%20Backend-blue?logo=github)](https://target-website-alpha.vercel.app/)
+[![Live](https://target-website-alpha.vercel.app/)]
 
 ---
 

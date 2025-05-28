@@ -1,141 +1,131 @@
+# 🚀 Khalid Essam – Backend / MERN Stack Developer
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=22C55E&center=true&vCenter=true&width=435&lines=Passionate+about+scalable+backend+systems;Node.js+%7C+NestJS+%7C+React;MongoDB+%7C+PostgreSQL+%7C+Docker)
+
+---
 
 ## 👋 About Me
 
-I'm Khalid Essam, a Junior Backend/(MERN stack) web developer passionate about building scalable backend systems. I specialize in Node.js, Express, Nest, MongoDB, and React, with a keen interest in developing robust APIs and efficient server-side applications.
+I'm **Khalid Essam**, a Junior **Backend / MERN Stack Web Developer** passionate about building **scalable**, **secure**, and **performant** backend systems.
 
+- 🧠 Focus: **APIs**, **authentication**, **real-time communication**
+- 💼 Specialties: `Node.js`, `NestJS`, `MongoDB`, `PostgreSQL`, `React`
 
-🌟 Featured Projects
-Here are some of your notable projects:
+---
 
-1. 🛠️ Target Backend
-Overview:
-The Target Backend project is an Express.js-based backend application designed following the Model-View-Controller (MVC) architectural pattern. It caters to the needs of a construction and maintenance company, providing a structured and scalable solution for managing various backend operations.
+## 🌟 Featured Projects
 
-Key Features:
+### 🛠️ Target Backend
 
-MVC Architecture: Implements a clear separation of concerns, enhancing maintainability and scalability.
+> 🏗 Express.js backend for a construction and maintenance company.
 
-Express.js Framework: Utilizes Express.js to handle routing and middleware, ensuring efficient request handling.
+**📝 Overview:**
 
-Docker Integration: Incorporates a Dockerfile, facilitating containerization for consistent deployment across environments.
+Built with the **MVC architecture**, this project provides a scalable backend using **Express.js** with **Docker** support.
 
-Modular Codebase: Organized into distinct directories for controllers, models, routes, and configuration, promoting code clarity and reusability.
+**🔑 Key Features:**
 
-Technologies Used:
+- 📁 MVC Pattern  
+- 🧱 Modular architecture  
+- 🐳 Docker container support  
+- ⚡ RESTful routing
 
-Node.js
+**🧰 Tech Stack:**  
+`Node.js`, `Express.js`, `Docker`, `JavaScript` , `Auth 2.0`, `OKTA`, `JWT`
 
-Express.js
+**🔗 Repository:**  
+[![Target Backend](https://img.shields.io/badge/GitHub-Target%20Backend-blue?logo=github)](https://github.com/KhalidEssam/target-backend)
 
-Docker
+---
 
-JavaScript
+### 💬 Real-Time Chat Application
 
-GitHub Repository:
-🔗 [GitHub](https://github.com/KhalidEssam/target-backend)
+> 💻 Full-stack real-time chat app with authentication and room management.
 
-2. 💬 Real-Time Chat Application
-Overview:
-This Chatting App is a full-stack real-time messaging platform built using NestJS, PostgreSQL, Socket.io, and React (Next.js). It supports real-time communication in different rooms, user authentication with JWT, and a modern UI with Material-UI components.
+**📝 Overview:**
 
-Key Features:
+Built with **NestJS**, **PostgreSQL**, and **Socket.io**, this app allows real-time messaging and secure JWT authentication.
 
-Real-Time Messaging: Instant communication via Socket.io with support for multiple chat rooms.
+**🔑 Key Features:**
 
-User Identification: Tracks users by name or phone number to enhance personalization.
+- 🗨️ Real-time chat (Socket.io)
+- 🔐 JWT Authentication & Route Guards  
+- 📱 User identification (name/phone)
+- ♻️ Token persistence
+- 🧼 Robust error handling  
+- 🎨 Responsive Material UI (React + Next.js)
 
-Secure Authentication: Implements JWT-based login with guard protection on sensitive routes.
+**🧰 Tech Stack:**  
+`NestJS`, `PostgreSQL`, `Socket.io`, `Next.js`, `MUI`, `JWT`, `ODM`, `Docker`, `PassportModule`, `AuthGuard`
 
-Scalable Backend: Built with NestJS and TypeORM, ensuring modularity and database integrity with PostgreSQL.
+**🔗 Repository:**  
+[![Chat App](https://img.shields.io/badge/GitHub-RealTime%20Chat%20App-green?logo=github)](https://github.com/KhalidEssam/Chating-app)
 
-Responsive Frontend: Built using Next.js (React) with Material UI for a clean and user-friendly experience.
+---
 
-Error Handling: Includes robust error detection and feedback on both client and server.
+### 🛒 Scandiweb Product Management API
 
-Token Persistence & Auto Validation: Tokens are stored in localStorage and automatically validated on page refresh.
+> 🛍️ RESTful service for handling product catalogs with dynamic product types.
 
-Technologies Used:
+**📝 Overview:**
 
-NestJS (TypeScript)
+Designed for a Scandiweb technical assessment, the backend allows managing products (Books, DVDs, Furniture) with dynamic fields and validations.
 
-PostgreSQL
+**🔑 Key Features:**
 
-Socket.io
+- 🧾 CRUD for products  
+- 🧠 Dynamic product types  
+- 🧼 Data validation  
+- 🗑️ Mass delete function  
+- 📘 API documentation included
 
-Next.js (React)
+**🧰 Tech Stack:**  
+`PHP (OOP)`, `ORM` ,`Slim Framework`, `MySQL`, `Postman`, `Doctrine`
 
-Material-UI (MUI)
+**🔗 Repository:**  
+[![Scandiweb API](https://img.shields.io/badge/GitHub-Scandiweb%20API-orange?logo=github)](https://github.com/KhalidEssam/Scandiweb_Task_backend)
 
-Axios
+---
 
-JWT
+### ⚡ JavaScript Caching Strategies
 
-GitHub Repository:
-🔗 [GitHub](https://github.com/KhalidEssam/Chating-app)
-
-
-3. 🛒 Scandiweb Product Management API
-Overview:
-This is a RESTful backend service developed as part of a technical assessment by Scandiweb. The project is designed to manage an online product catalog with strict business rules and efficient data handling.
-
-Key Features:
-
-CRUD Operations: Full Create, Read, Update, and Delete operations for product inventory.
-
-Dynamic Product Types: Supports multiple product types like books, DVDs, and furniture with dynamic attributes.
-
-Efficient Architecture: Cleanly structured code using object-oriented principles and modern PHP practices.
-
-Request Validation: Ensures product data is correctly formatted and complete before processing.
-
-Mass Delete Feature: Efficiently deletes multiple products in one request, as per task requirements.
-
-Clear API Documentation: Includes concise instructions for running and using the API.
-
-Technologies Used:
-
-PHP (Object-Oriented)
-
-Slim Framework (or plain PHP routing depending on version)
-
-MySQL
-
-Postman for API Testing
-
-GitHub Repository:
-🔗 [GitHub](https://github.com/KhalidEssam/Scandiweb_Task_backend)
-
-4- # JavaScript Caching Strategies Implementation
+> 🧠 Efficient caching strategies to improve web performance.
 
 ![JavaScript](https://img.shields.io/badge/language-JavaScript-yellow)
 ![Caching](https://img.shields.io/badge/tech-caching-blue)
-![Web Performance](https://img.shields.io/badge/focus-performance-green)
+![Performance](https://img.shields.io/badge/focus-performance-green)
 
-A comprehensive implementation of caching strategies in JavaScript to optimize web application performance, reduce server load, and enhance user experience.
+**🔑 Key Features:**
 
-## Table of Contents
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Caching Strategies](#caching-strategies)
-- [API Reference](#api-reference)
-- [Best Practices](#best-practices)
-- [Contributing](#contributing)
-- [License](#license)
+- 🧠 In-memory + browser caching  
+- ⚙️ TTL and invalidation logic  
+- 🛠️ Offline caching (Service Workers)  
+- 🔁 Patterns: Cache-Aside, Write-Through  
+- 🔒 Configurable logic
 
-## Features
+**🧰 Tech Stack:**  
+`JavaScript`, `Service Worker`, `LocalStorage`, `SessionStorage`
 
-- Multiple caching layer implementations
-- Memory and browser storage options
-- Service worker integration for offline capability
-- Common caching patterns (Cache-Aside, Write-Through, etc.)
-- Configurable TTL (Time-To-Live) support
-- Cache invalidation mechanisms
+**🔗 Repository:**  
+[![Caching Repo](https://img.shields.io/badge/GitHub-Caching%20Strategies-yellowgreen?logo=github)](https://github.com/KhalidEssam/Node-js-caching-mechanisms)
 
-## Installation
+---
 
-### Browser Implementation
-No installation required. Simply include the caching utilities in your project.
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KhalidEssam&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhalidEssam&layout=compact&theme=radical" height="180"/>
+</p>
 
+---
 
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/khalidessam/)
+- 🧠 [Portfolio (coming soon)](https://your-portfolio-link.com)
+- 📧 khalid.essam@example.com
+
+---
+
+> *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*

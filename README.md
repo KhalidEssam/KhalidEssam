@@ -60,13 +60,13 @@ Built with the **MVC architecture**, this project provides a scalable backend us
 **🧰 Tech Stack:**  
 `Node.js`, `Express.js`, `Docker`, `JavaScript` , `Auth 2.0`, `OKTA`, `JWT`
 
-**🔗 Repository:**  
-[![Target Backend](https://img.shields.io/badge/GitHub-Target%20Backend-blue?logo=github)](https://github.com/KhalidEssam/target-backend)
+**🔗 Related Repositories & Live Demos:**
 
-[![hosted testable backend](https://target-backend-production.up.railway.app)]
+[![Target Backend - GitHub](https://img.shields.io/badge/GitHub-Target_Backend-181717?style=for-the-badge&logo=github)](https://github.com/KhalidEssam/target-backend)
 
+[![Target Backend - Live Demo](https://img.shields.io/badge/Live_Demo-Target_Backend-0A66C2?style=for-the-badge&logo=railway&logoColor=white)](https://target-backend-production.up.railway.app)
 
-[![Live](https://target-website-alpha.vercel.app/)]
+[![Target Website - Live Demo](https://img.shields.io/badge/Live_Demo-Target_Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://target-website-alpha.vercel.app/)
 
 ---
 

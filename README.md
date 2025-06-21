@@ -1,6 +1,6 @@
 # 🚀 Khalid Essam – Backend / MERN Stack Developer
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=22C55E&center=true&vCenter=true&width=435&lines=Passionate+about+scalable+backend+systems;Node.js+%7C+NestJS+%7C+React;MongoDB+%7C+PostgreSQL+%7C+Docker)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=22C55E&center=true&vCenter=true&width=550&lines=Passionate+about+scalable+backend+systems;Node.js+%7C+NestJS+%7C+React;MongoDB+%7C+PostgreSQL+%7C+Docker)
 
 ---
 
@@ -10,6 +10,24 @@ I'm **Khalid Essam**, a Junior **Backend / MERN Stack Web Developer** passionate
 
 - 🧠 Focus: **APIs**, **authentication**, **real-time communication**
 - 💼 Specialties: `Node.js`, `NestJS`, `MongoDB`, `PostgreSQL`, `React`
+
+---
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=KhalidEssam&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhalidEssam&layout=compact&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=KhalidEssam&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub followers](https://img.shields.io/github/followers/KhalidEssam?style=social)
+![GitHub language count](https://img.shields.io/github/languages/count/KhalidEssam/cart-management_php_backend)
+![GitHub top language](https://img.shields.io/github/languages/top/KhalidEssam/Chating-app)
+
+
+
+---
+
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/khaled-mossalam/)
+- 📧 khaledesam384@gmail.com
 
 ---
 
@@ -126,11 +144,5 @@ Designed for a Scandiweb technical assessment, the backend allows managing produ
 
 ---
 
-## 📫 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/khaled-mossalam/)
-- 📧 khaledesam384@gmail.com
-
----
 
 > *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*

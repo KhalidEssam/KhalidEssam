@@ -12,7 +12,7 @@ I'm **Khalid Essam**, a Junior **Backend / MERN Stack Web Developer** passionate
 - 💼 Specialties: `Node.js`, `NestJS`, `MongoDB`, `PostgreSQL`, `React`
 
 ---
-[![trophy](https://github-profile-trophy.vercel.app/?username=KhalidEssam&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=KhalidEssam&theme=algolia&v=1)](https://github.com/ryo-ma/github-profile-trophy)
 ![GitHub followers](https://img.shields.io/github/followers/KhalidEssam?style=social)
 ![GitHub language count](https://img.shields.io/github/languages/count/KhalidEssam/cart-management_php_backend)
 ![GitHub top language](https://img.shields.io/github/languages/top/KhalidEssam/Chating-app)

@@ -6,7 +6,7 @@
 
 ## 👋 About Me
 
-I'm **Khalid Essam**, a Junior **Backend / MERN Stack Web Developer** passionate about building **scalable**, **secure**, and **performant** backend systems.
+I'm **Khalid Essam**, a Mid level **Backend / MERN Stack Web Developer** passionate about building **scalable**, **secure**, and **performant** backend systems.
 
 - 🧠 Focus: **APIs**, **authentication**, **real-time communication**
 - 💼 Specialties: `Node.js`, `NestJS`, `MongoDB`, `PostgreSQL`, `React`
